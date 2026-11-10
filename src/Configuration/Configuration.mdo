@@ -38,4 +38,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <roles>Role.ПолныеПрава</roles>
+  <httpServices>HTTPService.МобильноеПриложение</httpServices>
 </mdclass:Configuration>
